@@ -1,0 +1,25 @@
+Section,Metric,Category,Value,Percentage
+Talent Overview,Total Talent Population,All Employees,20,100%
+Current Talent,T1,T1,6,30%
+Current Talent,T2,T2,7,35%
+Current Talent,T3,T3,7,35%
+Talent Evolution,New,New Nomination,4,20%
+Talent Evolution,Up,Improved Talent Level,8,40%
+Talent Evolution,Same,No Change,5,25%
+Talent Evolution,Down,Reduced Talent Level,3,15%
+Performance,Exceeds Expectations,Exceeds Expectations,9,45%
+Performance,Meets Expectations,Meets Expectations,10,50%
+Performance,Partially Meets,Partially Meets,1,5%
+Career Mobility,Ready for Career Move,Yes,11,55%
+Career Mobility,Ready for Career Move,No,9,45%
+Geographic Mobility,High,High,11,55%
+Geographic Mobility,Medium,Medium,6,30%
+Geographic Mobility,Low,Low,3,15%
+Regional Distribution,APAC,APAC,8,40%
+Regional Distribution,Europe,Europe,8,40%
+Regional Distribution,Americas,Americas,4,20%
+Business Unit,Digital,Digital,7,35%
+Business Unit,Energy,Energy,8,40%
+Business Unit,Corporate,Corporate,5,25%
+Talent Review,Meeting,Annual Talent Review 2026,20,100%
+Talent Review,Meeting Date,10-Jun-2026,20,100%
